@@ -1,4 +1,4 @@
-# samespace
+# SAMESPACE
 I used docker to access Scylladb database. I have added all four functions necessary to complete  CRUD operations. 
 I have included routing in main.go file. 
 I have also sorted tasks according to their creation date.
